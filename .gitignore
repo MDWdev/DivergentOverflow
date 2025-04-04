@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Node or site builds
+node_modules/
+_site/
+.next/
+
+# Editor files
+.vscode/
+.idea/
+
+# Jekyll
+.sass-cache/
+.jekyll-cache/
